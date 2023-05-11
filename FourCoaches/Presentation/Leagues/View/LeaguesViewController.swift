@@ -16,14 +16,7 @@ class LeaguesViewController: UIViewController,Storyboarded {
     @IBOutlet weak var leagesCollectionView: UICollectionView!
     override func viewDidLoad() {
         super.viewDidLoad()
-        LeaguesPresentationDefault(repositosry: ((UIApplication.shared.delegate) as! AppDelegate).allSportsRepository, sportType: sportType).getLeagues {
-            
-        } success: { leaguesList in
-            self.leagueList = leaguesList
-            self.leagesCollectionView.reloadData()
-        } error: { error in
-            print(error)
-        }
+        LeaguesPresentationDefault(repositosry: ((UIApplication.shared.delegate) as! AppDelegate).allSportsRepository, sportType: sportType,leaguePresenterProtocol: self).getLeagues()
 
         // Do any additional setup after loading the view.
     }
@@ -69,5 +62,20 @@ extension LeaguesViewController:UICollectionViewDelegate,UICollectionViewDataSou
     
     
         
+    
+}
+
+
+extension LeaguesViewController:LeaguePresenterProtocol {
+    func onLeaguesLoaded(leagueList: [LeaguesItem]) {
+        self.leagueList = leagueList
+        self.leagesCollectionView.reloadData()
+    }
+    
+    func onLeaguesError(error: String) {
+        print(error)
+
+    }
+    
     
 }

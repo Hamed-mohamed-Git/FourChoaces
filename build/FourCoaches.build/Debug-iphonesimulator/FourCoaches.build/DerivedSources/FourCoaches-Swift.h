@@ -373,6 +373,7 @@ SWIFT_CLASS("_TtC11FourCoaches21LeaguesViewController")
 @end
 
 
+
 @interface LeaguesViewController (SWIFT_EXTENSION(FourCoaches)) <UICollectionViewDataSource, UICollectionViewDelegateFlowLayout>
 - (NSInteger)collectionView:(UICollectionView * _Nonnull)collectionView numberOfItemsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
 - (UICollectionViewCell * _Nonnull)collectionView:(UICollectionView * _Nonnull)collectionView cellForItemAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;

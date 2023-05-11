@@ -8,27 +8,34 @@
 import Foundation
 
 protocol LeaguesPresentation {
-    func getLeagues(loading: @escaping () -> Void,success: @escaping ([LeaguesItem]) -> Void,error: @escaping (Error) -> Void)
+    func getLeagues()
+}
+
+protocol LeaguePresenterProtocol {
+    func onLeaguesLoaded(leagueList:[LeaguesItem])
+    func onLeaguesError(error:String)
 }
 
 final class LeaguesPresentationDefault {
     private let repositosry:AllSportRepository
     private let sportType:SportType!
-    init(repositosry: AllSportRepository, sportType: SportType!) {
+    private let leaguePresenterProtocol:LeaguePresenterProtocol!
+    init(repositosry: AllSportRepository, sportType: SportType!, leaguePresenterProtocol: LeaguePresenterProtocol!) {
         self.repositosry = repositosry
         self.sportType = sportType
+        self.leaguePresenterProtocol = leaguePresenterProtocol
     }
 }
 
 extension LeaguesPresentationDefault:LeaguesPresentation {
-    func getLeagues(loading: @escaping () -> Void, success: @escaping ([LeaguesItem]) -> Void, error: @escaping (Error) -> Void) {
+    func getLeagues() {
         repositosry.getLeagues(sportType: self.sportType ?? SportType.TENNIS) { result in
             DispatchQueue.main.sync {
                 switch result {
                 case .success(let leaguesList):
-                    success(leaguesList.result!)
+                    self.leaguePresenterProtocol.onLeaguesLoaded(leagueList: leaguesList.result ?? [])
                 case .failure(let er):
-                    error(er)
+                    self.leaguePresenterProtocol.onLeaguesError(error: er.localizedDescription)
                 }
             }
         }

@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
 options: "04667982547271391d87f7b7c2c5d8886d9b6d6940ee09c5cdbf1d5ad19a8cfa"
-build_start_time: [1683789540, 864187955]
-build_end_time: [1683789542, 738394975]
+build_start_time: [1683791747, 488255977]
+build_end_time: [1683791749, 929319858]
 inputs:
   ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Application/Coordinator/AppCoordinator.swift"
   : [1683188607, 689869880]
@@ -84,13 +84,13 @@ inputs:
   ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/HomeTabBar/View/HomeTabBarViewController.swift"
   : [1683196880, 842655658]
   ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/Leagues/LeaguesPresentation.swift"
-  : [1683787450, 38362026]
+  : [1683791746, 908262729]
   ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/Leagues/View/LeagueTableViewCell.swift"
   : [1683536441, 845302581]
   ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/Leagues/View/LeaguesCoordinator.swift"
   : [1683190458, 247128486]
   ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/Leagues/View/LeaguesViewController.swift"
-  : [1683626650, 992437839]
+  : [1683791746, 883860349]
   ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/LeaguesDetails/LeaguesDetailsPresenter.swift"
   : [1683726089, 826279163]
   ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/LeaguesDetails/View/LeagueDetailsViewController.swift"
