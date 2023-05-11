@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #4 in AllSportRepositoryDefault.getFixtureScores(sportType:leagueID:completion:):AllSportRepositoryDefault.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "leagueID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LeagueDetailsViewController.leagueId.setter:LeagueDetailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.sportType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AllSportsApiServiceDefault.getFixtureScores(sportType:leagueID:completion:):AllSportsApiService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "getCurrentAfterDate">
+            </PersistentString>
+            <PersistentString
+               value = "getURL(baseUrl: ALL_SPOSRTS_API_BASE_URL, spotType: sportType, key: ALL_SPOSRTS_API_USER_KEY, met: &quot;Fixtures&quot;).appending(&quot;&amp;leagueId=\(leagueID)&quot;).appending(&quot;&amp;from=\(getCurrentDate(countOfDayAfterCurrent: 0))&quot;).appending(&quot;&amp;to=\(getCurrentDate(countOfDayAfterCurrent: 15))&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "getCurrentDate(countOfDayAfterCurrent: 0)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AllSportsApiServiceDefault.getLeagues(completion:sportType:):AllSportsApiService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sportType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FavouriteViewController.collectionView(_:cellForItemAt:):FavouriteViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "favouriteTeams[indexPath.row].teamName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FavouriteViewController.collectionView(_:numberOfItemsInSection:):FavouriteViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "favouriteTeams.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LeaguesViewController.sportType.setter:LeaguesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sportType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LeagueDetailsViewController.viewDidLoad():LeagueDetailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.sportType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FavouriteViewController.onFavouirteTeamLoaded(storedTeamList:):FavouriteViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FavouritePresenter.getStoredTeams():FavouritePresenter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "favouriteTeamsList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LeaguesViewController.prepare(for:sender:):LeaguesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.sportType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

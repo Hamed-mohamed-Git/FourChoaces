@@ -1,0 +1,30 @@
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/TeamDetails/View/TeamDetailsViewController.swift":
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/TeamDetailsViewController.d"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/TeamDetailsViewController.dia"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/TeamDetailsViewController.swiftdeps"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/TeamDetailsViewController.o"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/Home/View/HomeViewController.swift":
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/HomeViewController.swiftdeps"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/HomeViewController.d"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/HomeViewController.o"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/HomeViewController.dia"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Helper/LeageDataMappear.swift":
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/LeageDataMappear.o"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/LeageDataMappear.swiftdeps"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/LeageDataMappear.dia"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/LeageDataMappear.d"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Data/Network/Models/Team.swift":
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/Team.o"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/Team.dia"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/Team.swiftdeps"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/Team.d"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Helper/Constants.swift":
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/Constants.swiftdeps"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/Constants.o"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/Constants.dia"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/Constants.d"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Application/Core/AppDelegate.swift":
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/AppDelegate.o"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/AppDelegate.d"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/AppDelegate.swiftdeps"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/AppDelegate.dia"

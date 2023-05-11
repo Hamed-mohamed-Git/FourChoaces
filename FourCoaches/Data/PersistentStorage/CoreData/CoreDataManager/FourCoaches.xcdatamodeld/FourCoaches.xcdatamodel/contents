@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21512" systemVersion="22E261" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="StoredPlayer" representedClassName="StoredPlayer" syncable="YES">
+        <attribute name="playerAge" optional="YES" attributeType="String"/>
+        <attribute name="playerImageUrl" optional="YES" attributeType="String"/>
+        <attribute name="playerKey" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="playerMatch" optional="YES" attributeType="String"/>
+        <attribute name="playerName" optional="YES" attributeType="String"/>
+        <attribute name="playerType" optional="YES" attributeType="String"/>
+        <relationship name="team" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="StoredTeam" inverseName="players" inverseEntity="StoredTeam"/>
+    </entity>
+    <entity name="StoredTeam" representedClassName="StoredTeam" syncable="YES">
+        <attribute name="teamKey" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="teamLogoUrl" optional="YES" attributeType="String"/>
+        <attribute name="teamName" optional="YES" attributeType="String"/>
+        <relationship name="players" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="StoredPlayer" inverseName="team" inverseEntity="StoredPlayer"/>
+    </entity>
+</model>

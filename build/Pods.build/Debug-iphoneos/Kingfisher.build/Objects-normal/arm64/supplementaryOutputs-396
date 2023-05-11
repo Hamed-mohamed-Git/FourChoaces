@@ -1,0 +1,40 @@
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Networking/ImagePrefetcher.swift":
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImagePrefetcher.dia"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImagePrefetcher.o"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImagePrefetcher.d"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImagePrefetcher.swiftdeps"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Extensions/ImageView+Kingfisher.swift":
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImageView+Kingfisher.o"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImageView+Kingfisher.dia"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImageView+Kingfisher.d"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImageView+Kingfisher.swiftdeps"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Image/ImageProcessor.swift":
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImageProcessor.o"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImageProcessor.swiftdeps"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImageProcessor.dia"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImageProcessor.d"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Networking/ImageModifier.swift":
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImageModifier.dia"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImageModifier.o"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImageModifier.d"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImageModifier.swiftdeps"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/General/KF.swift":
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/KF.o"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/KF.d"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/KF.dia"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/KF.swiftdeps"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Image/ImageProgressive.swift":
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImageProgressive.d"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImageProgressive.o"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImageProgressive.dia"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImageProgressive.swiftdeps"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Image/ImageTransition.swift":
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImageTransition.dia"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImageTransition.swiftdeps"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImageTransition.o"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/ImageTransition.d"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Views/Indicator.swift":
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/Indicator.swiftdeps"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/Indicator.dia"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/Indicator.o"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/Indicator.d"

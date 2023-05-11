@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "c1d2e10242d05296a888dff4e7491b85868840886516fd2e4e89ef27a160c507"
+build_start_time: [1683746418, 907112121]
+build_end_time: [1683746420, 4784107]
+inputs:
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoachesTests/Data/Network/AllSportsApiServiceDefaultTests.swift"
+  : [1683743310, 534280776]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoachesTests/Data/Network/MockAllSportsApiServiceDefault.swift"
+  : [1683746418, 547217845]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoachesTests/Data/Network/MockAllSportsApiServiceTests.swift"
+  : [1683746221, 41284084]

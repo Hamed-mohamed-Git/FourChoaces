@@ -1,0 +1,10 @@
+Target dependency graph (4 targets)
+Kingfisher in Pods, no dependencies
+ReachabilitySwift in Pods, no dependencies
+Pods-FourCoaches in Pods, depends on:
+Kingfisher in Pods (explicit)
+ReachabilitySwift in Pods (explicit)
+FourCoaches in FourCoaches, depends on:
+Pods-FourCoaches in Pods (implicit dependency via file 'Pods_FourCoaches.framework' in build phase 'Link Binary')
+Kingfisher in Pods (implicit dependency via options '-framework Kingfisher' in build setting 'OTHER_LDFLAGS')
+ReachabilitySwift in Pods (implicit dependency via options '-framework Reachability' in build setting 'OTHER_LDFLAGS')

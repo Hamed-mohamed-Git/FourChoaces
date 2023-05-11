@@ -1,0 +1,35 @@
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Extensions/TVMonogramView+Kingfisher.swift":
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/TVMonogramView+Kingfisher.d"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/TVMonogramView+Kingfisher.dia"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/TVMonogramView+Kingfisher.o"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/TVMonogramView+Kingfisher.swiftdeps"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Utility/SizeExtensions.swift":
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/SizeExtensions.o"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/SizeExtensions.dia"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/SizeExtensions.swiftdeps"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/SizeExtensions.d"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Cache/Storage.swift":
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/Storage.d"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/Storage.swiftdeps"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/Storage.dia"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/Storage.o"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Extensions/WKInterfaceImage+Kingfisher.swift":
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/WKInterfaceImage+Kingfisher.d"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/WKInterfaceImage+Kingfisher.o"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/WKInterfaceImage+Kingfisher.swiftdeps"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/WKInterfaceImage+Kingfisher.dia"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/General/ImageSource/Source.swift":
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/Source.o"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/Source.dia"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/Source.d"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/Source.swiftdeps"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Utility/String+MD5.swift":
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/String+MD5.d"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/String+MD5.o"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/String+MD5.dia"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/String+MD5.swiftdeps"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Extensions/UIButton+Kingfisher.swift":
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/UIButton+Kingfisher.o"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/UIButton+Kingfisher.dia"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/UIButton+Kingfisher.swiftdeps"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphoneos/Kingfisher.build/Objects-normal/arm64/UIButton+Kingfisher.d"

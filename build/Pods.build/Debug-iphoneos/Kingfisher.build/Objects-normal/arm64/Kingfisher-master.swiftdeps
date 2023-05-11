@@ -1,0 +1,127 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "6425496a00aed2ed3b4c912ddc786f253ba385c26b6253b2f52a7bd309a14cd3"
+build_start_time: [1683630459, 334398031]
+build_end_time: [1683630459, 745515823]
+inputs:
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Cache/CacheSerializer.swift"
+  : [1683245201, 413370609]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Cache/DiskStorage.swift"
+  : [1683245201, 413037776]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Cache/FormatIndicatedCacheSerializer.swift"
+  : [1683245201, 413739681]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Cache/ImageCache.swift"
+  : [1683245201, 412380695]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Cache/MemoryStorage.swift"
+  : [1683245201, 412780523]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Cache/Storage.swift"
+  : [1683245201, 412029743]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Extensions/CPListItem+Kingfisher.swift"
+  : [1683245201, 427872180]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Extensions/ImageView+Kingfisher.swift"
+  : [1683245201, 426216125]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Extensions/NSButton+Kingfisher.swift"
+  : [1683245201, 426378726]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Extensions/NSTextAttachment+Kingfisher.swift"
+  : [1683245201, 427394390]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Extensions/TVMonogramView+Kingfisher.swift"
+  : [1683245201, 425925254]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Extensions/UIButton+Kingfisher.swift"
+  : [1683245201, 426654815]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Extensions/WKInterfaceImage+Kingfisher.swift"
+  : [1683245201, 427009582]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/General/ImageSource/AVAssetImageDataProvider.swift"
+  : [1683245201, 417236328]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/General/ImageSource/ImageDataProvider.swift"
+  : [1683245201, 416976928]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/General/ImageSource/Resource.swift"
+  : [1683245201, 416042327]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/General/ImageSource/Source.swift"
+  : [1683245201, 415685176]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/General/KF.swift"
+  : [1683245201, 415291786]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/General/KFOptionsSetter.swift"
+  : [1683245201, 417422294]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/General/Kingfisher.swift"
+  : [1683245201, 414585113]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/General/KingfisherError.swift"
+  : [1683245201, 414986133]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/General/KingfisherManager.swift"
+  : [1683245201, 417712211]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/General/KingfisherOptionsInfo.swift"
+  : [1683245201, 418087959]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Image/Filter.swift"
+  : [1683245201, 425056457]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Image/GIFAnimatedImage.swift"
+  : [1683245201, 425425529]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Image/GraphicsContext.swift"
+  : [1683245201, 424835205]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Image/Image.swift"
+  : [1683245201, 423007011]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Image/ImageDrawing.swift"
+  : [1683245201, 424023866]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Image/ImageFormat.swift"
+  : [1683245201, 423228979]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Image/ImageProcessor.swift"
+  : [1683245201, 424680233]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Image/ImageProgressive.swift"
+  : [1683245201, 422712802]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Image/ImageTransition.swift"
+  : [1683245201, 424377202]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Image/Placeholder.swift"
+  : [1683245201, 425208568]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Networking/AuthenticationChallengeResponsable.swift"
+  : [1683245201, 420560359]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Networking/ImageDataProcessor.swift"
+  : [1683245201, 418922424]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Networking/ImageDownloader.swift"
+  : [1683245201, 420318603]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Networking/ImageDownloaderDelegate.swift"
+  : [1683245201, 418398380]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Networking/ImageModifier.swift"
+  : [1683245201, 420775175]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Networking/ImagePrefetcher.swift"
+  : [1683245201, 421636581]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Networking/RedirectHandler.swift"
+  : [1683245201, 419419288]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Networking/RequestModifier.swift"
+  : [1683245201, 418600797]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Networking/RetryStrategy.swift"
+  : [1683245201, 420987606]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Networking/SessionDataTask.swift"
+  : [1683245201, 419128417]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Networking/SessionDelegate.swift"
+  : [1683245201, 421363353]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/SwiftUI/ImageBinder.swift"
+  : [1683245201, 428743362]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/SwiftUI/ImageContext.swift"
+  : [1683245201, 430721759]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/SwiftUI/KFAnimatedImage.swift"
+  : [1683245201, 430007934]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/SwiftUI/KFImage.swift"
+  : [1683245201, 430215358]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/SwiftUI/KFImageOptions.swift"
+  : [1683245201, 430421829]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/SwiftUI/KFImageProtocol.swift"
+  : [1683245201, 429759263]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/SwiftUI/KFImageRenderer.swift"
+  : [1683245201, 430923938]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Utility/Box.swift"
+  : [1683245201, 432573318]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Utility/CallbackQueue.swift"
+  : [1683245201, 431738853]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Utility/Delegate.swift"
+  : [1683245201, 431892871]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Utility/ExtensionHelpers.swift"
+  : [1683245201, 432091236]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Utility/Result.swift"
+  : [1683245201, 432237625]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Utility/Runtime.swift"
+  : [1683245201, 431564092]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Utility/SizeExtensions.swift"
+  : [1683245201, 432434797]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Utility/String+MD5.swift"
+  : [1683245201, 432808399]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Views/AnimatedImageView.swift"
+  : [1683245201, 428410291]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/Views/Indicator.swift"
+  : [1683245201, 428253173]

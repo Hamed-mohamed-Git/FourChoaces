@@ -1,0 +1,40 @@
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/SwiftUI/KFImageRenderer.swift":
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageRenderer.d"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageRenderer.o"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageRenderer.swiftdeps"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageRenderer.dia"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/SwiftUI/KFImageOptions.swift":
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageOptions.o"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageOptions.dia"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageOptions.d"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageOptions.swiftdeps"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/General/Kingfisher.swift":
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Kingfisher.swiftdeps"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Kingfisher.o"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Kingfisher.d"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Kingfisher.dia"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/SwiftUI/KFImageProtocol.swift":
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageProtocol.o"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageProtocol.dia"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageProtocol.swiftdeps"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageProtocol.d"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/SwiftUI/KFImage.swift":
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImage.dia"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImage.swiftdeps"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImage.d"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImage.o"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/General/KFOptionsSetter.swift":
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFOptionsSetter.d"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFOptionsSetter.o"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFOptionsSetter.swiftdeps"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFOptionsSetter.dia"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/SwiftUI/KFAnimatedImage.swift":
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFAnimatedImage.swiftdeps"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFAnimatedImage.dia"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFAnimatedImage.d"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFAnimatedImage.o"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/Kingfisher/Sources/General/KingfisherError.swift":
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KingfisherError.d"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KingfisherError.dia"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KingfisherError.swiftdeps"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KingfisherError.o"

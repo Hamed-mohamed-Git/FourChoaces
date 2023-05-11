@@ -1,0 +1,35 @@
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Helper/DateMapper.swift":
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/DateMapper.dia"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/DateMapper.d"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/DateMapper.swiftdeps"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/DateMapper.o"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Data/Network/Map/SportMapper.swift":
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/SportMapper.swiftdeps"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/SportMapper.d"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/SportMapper.dia"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/SportMapper.o"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/HomeTabBar/HomeTabBarCoordinator.swift":
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/HomeTabBarCoordinator.d"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/HomeTabBarCoordinator.o"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/HomeTabBarCoordinator.swiftdeps"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/HomeTabBarCoordinator.dia"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/Common/GradientView.swift":
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/GradientView.d"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/GradientView.o"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/GradientView.dia"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/GradientView.swiftdeps"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/OnBoarding/OnBoardingPresentaion.swift":
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/OnBoardingPresentaion.swiftdeps"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/OnBoardingPresentaion.o"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/OnBoardingPresentaion.d"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/OnBoardingPresentaion.dia"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Data/Repository/DefaultSettingsRepository.swift":
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/DefaultSettingsRepository.o"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/DefaultSettingsRepository.swiftdeps"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/DefaultSettingsRepository.d"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/DefaultSettingsRepository.dia"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Data/PersistentStorage/SettingsUserDefaults.swift":
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/SettingsUserDefaults.swiftdeps"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/SettingsUserDefaults.d"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/SettingsUserDefaults.dia"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphoneos/FourCoaches.build/Objects-normal/arm64/SettingsUserDefaults.o"

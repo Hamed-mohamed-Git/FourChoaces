@@ -1,0 +1,30 @@
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/TeamDetails/View/TeamDetailsViewController.swift":
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/TeamDetailsViewController.o"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/TeamDetailsViewController.dia"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/TeamDetailsViewController.d"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/TeamDetailsViewController.swiftdeps"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Helper/Constants.swift":
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/Constants.o"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/Constants.d"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/Constants.dia"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/Constants.swiftdeps"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Helper/LeageDataMappear.swift":
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/LeageDataMappear.swiftdeps"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/LeageDataMappear.o"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/LeageDataMappear.d"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/LeageDataMappear.dia"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Domain/Entities/Settings.swift":
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/Settings.swiftdeps"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/Settings.o"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/Settings.d"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/Settings.dia"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Application/Core/AppDelegate.swift":
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/AppDelegate.swiftdeps"
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/AppDelegate.d"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/AppDelegate.dia"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/AppDelegate.o"
+"/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/Home/View/HomeViewController.swift":
+  dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/HomeViewController.d"
+  swift-dependencies: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/HomeViewController.swiftdeps"
+  object: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/HomeViewController.o"
+  diagnostics: "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/build/FourCoaches.build/Debug-iphonesimulator/FourCoaches.build/Objects-normal/arm64/HomeViewController.dia"

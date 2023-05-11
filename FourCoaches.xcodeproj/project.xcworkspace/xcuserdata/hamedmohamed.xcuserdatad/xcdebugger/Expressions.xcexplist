@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "child">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OnBoardingViewController.prepare(for:sender:):OnBoardingViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "onBoardingCoordinator">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AppCoordinator.getEntryPoint():AppCoordinator.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "defaultSettingsRepository.getIsAppBrandNew()!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OnBoardingCoordinator.contentViewController(at:):OnBoardingCoordinator.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pageContent.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in LeaguesViewController.viewDidLoad():LeaguesViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AllSportsApiServiceDefault.getLeagues(completion:sportType:):AllSportsApiService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "OnBoardingViewController.onBoardingCoordinator.setter:OnBoardingViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "onBoardingCoordinator">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OnBoardingPageViewController.viewDidLoad():OnBoardingPageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "onBoardingCoordinator">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AllSportsApiServiceDefault.getLeagues(completion:sportType:):AllSportsApiService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "try JSONDecoder().decode(Leagues.self, from: data!) as! Leagues">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static Storyboarded&lt;&gt;.instantiate():Storyboarded.swift">
+      </ContextState>
+      <ContextState
+         contextName = "OnBoardingPageViewController.setup():OnBoardingPageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "onBoardingCoordinator">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

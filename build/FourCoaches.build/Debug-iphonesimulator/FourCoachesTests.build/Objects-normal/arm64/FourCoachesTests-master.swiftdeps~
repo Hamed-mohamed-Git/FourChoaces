@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "cb11b0206079db1a70a64462e988a27c91912d37c142b7e1c54b9a1f2e22d0e4"
+build_start_time: [1683742150, 717283964]
+build_end_time: [1683742150, 782167911]
+inputs:
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoachesTests/FourCoachesTests.swift"
+  : !private [1683742145, 789755582]

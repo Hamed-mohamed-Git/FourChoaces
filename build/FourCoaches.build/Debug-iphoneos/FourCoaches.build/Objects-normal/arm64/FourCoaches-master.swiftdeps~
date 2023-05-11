@@ -1,0 +1,113 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "ec97f5f32d1375a12d8d191fe9b3e8fd01bbe3671b0bb3d1e683085fdf59958b"
+build_start_time: [1683612615, 150404930]
+build_end_time: [1683612615, 966513156]
+inputs:
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Application/Coordinator/AppCoordinator.swift"
+  : !private [1683188607, 689869880]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Application/Coordinator/Coordinator.swift"
+  : !private [1683130692, 762697458]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Application/Core/AppDelegate.swift"
+  : !private [1683559429, 562625885]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Application/Core/SceneDelegate.swift"
+  : !private [1683188349, 860102653]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Data/Network/AllSportsApiService.swift"
+  : !private [1683452198, 175662040]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Data/Network/Map/SportMapper.swift"
+  : !private [1683458583, 360455513]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Data/Network/Models/Fixture.swift"
+  : !private [1683458583, 370032787]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Data/Network/Models/Leagu.swift"
+  : !private [1683459896, 509045124]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Data/Network/Models/Team.swift"
+  : !private [1683433950, 363727807]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Data/PersistentStorage/CoreData/CoreDataManager/CoreDataStorage.swift"
+  : !private [1683526788, 516021966]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Data/PersistentStorage/CoreData/Model/StoredPlayer+CoreDataClass.swift"
+  : !private [1683582733, 455232381]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Data/PersistentStorage/CoreData/Model/StoredPlayer+CoreDataProperties.swift"
+  : !private [1683583116, 741818666]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Data/PersistentStorage/CoreData/Model/StoredTeam+CoreDataClass.swift"
+  : !private [1683582733, 455262660]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Data/PersistentStorage/CoreData/Model/StoredTeam+CoreDataProperties.swift"
+  : !private [1683582733, 456083297]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+  : !private [1683583116, 764918804]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Data/PersistentStorage/SettingsUserDefaults.swift"
+  : !private [1683190458, 342388153]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Data/Repository/AllSportRepositoryDefault.swift"
+  : !private [1683581387, 222764730]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Data/Repository/DefaultSettingsRepository.swift"
+  : !private [1683018588, 121987819]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Domain/Entities/League.swift"
+  : !private [1683458583, 387145996]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Domain/Entities/Settings.swift"
+  : !private [1683188607, 680682420]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Domain/Interfaces/Network/AllSportsApiServic.swift"
+  : !private [1683445467, 556390762]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Domain/Interfaces/Repository/AllSportRepository.swift"
+  : !private [1683581387, 236134529]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Domain/Interfaces/Repository/SettingsRepository.swift"
+  : !private [1683018588, 85220098]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Helper/AlertManager.swift"
+  : !private [1683610593, 852685451]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Helper/Constants.swift"
+  : !private [1683450459, 661942005]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Helper/DateMapper.swift"
+  : !private [1683445467, 531693458]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Helper/LeageDataMappear.swift"
+  : !private [1683458583, 346818447]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/Common/GradientView.swift"
+  : !private [1683171813, 265301465]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/Common/Storyboard/Storyboarded.swift"
+  : !private [1682999230, 887306690]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/Common/Utils.swift"
+  : !private [1683271161, 801191329]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/Favourite/FavouriteCoordinator.swift"
+  : !private [1683197060, 50763607]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/Favourite/FavouritePresenter.swift"
+  : !private [1683581387, 248059511]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/Favourite/StoredTeamTableViewCell.swift"
+  : !private [1683551541, 541047096]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/Favourite/View/FavouriteViewController.swift"
+  : !private [1683583910, 756669521]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/Home/HomeScreenCoordinate.swift"
+  : !private [1683192221, 281675338]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/Home/View/HomeViewController.swift"
+  : !private [1683612464, 820167064]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/HomeTabBar/HomeTabBarCoordinator.swift"
+  : !private [1683197060, 58830738]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/HomeTabBar/NavigationBarDelegation.swift"
+  : !private [1683196880, 832056283]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/HomeTabBar/View/HomeTabBarViewController.swift"
+  : !private [1683196880, 842655658]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/Leagues/LeaguesPresentation.swift"
+  : !private [1683268457, 501769065]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/Leagues/View/LeagueTableViewCell.swift"
+  : !private [1683536441, 845302581]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/Leagues/View/LeaguesCoordinator.swift"
+  : !private [1683190458, 247128486]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/Leagues/View/LeaguesViewController.swift"
+  : !private [1683539405, 545452594]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/LeaguesDetails/LeaguesDetailsPresenter.swift"
+  : !private [1683458583, 398900032]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/LeaguesDetails/View/LeagueDetailsViewController.swift"
+  : !private [1683529976, 212516784]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/LeaguesDetails/View/MatchCollectionViewCell.swift"
+  : !private [1683474174, 523965358]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/OnBoarding/OnBoardingPresentaion.swift"
+  : !private [1683189254, 950375080]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/OnBoarding/View/OnBoardingContentViewController.swift"
+  : !private [1683177486, 269138336]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/OnBoarding/View/OnBoardingPageViewController.swift"
+  : !private [1683185397, 786319255]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/OnBoarding/View/OnBoardingViewController.swift"
+  : !private [1683189117, 534360408]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/OnBoarding/View/onboardingPageViewControllerDelegate.swift"
+  : !private [1683164763, 284844398]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/TeamDetails/TeamDetailsPresenter.swift"
+  : !private [1683559429, 534432649]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/TeamDetails/View/PlayerCollectionViewCell.swift"
+  : !private [1683346287, 227745056]
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/FourCoaches/Presentation/TeamDetails/View/TeamDetailsViewController.swift"
+  : !private [1683583683, 512730360]

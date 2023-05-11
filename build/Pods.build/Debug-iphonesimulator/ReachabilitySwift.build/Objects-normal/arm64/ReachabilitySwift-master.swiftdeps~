@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "6a8cefec7be5f3c63b27c8a92a577ee4b103ec3fe7bc3360be8642577aaee273"
+build_start_time: [1683609852, 628927946]
+build_end_time: [1683609852, 672511100]
+inputs:
+  ? "/Users/hamedmohamed/Desktop/my work/IOS Projects/swift/swift language Labs/project/FourCoaches/Pods/ReachabilitySwift/Sources/Reachability.swift"
+  : !private [1683609830, 723116874]

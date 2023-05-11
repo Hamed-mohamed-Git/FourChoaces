@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "52A98533-D11C-4993-B247-9AEFA1551476"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2EB52D09-7C76-4E18-BE87-BEE8A39E9426"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getTeams(compltion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3701FB69-9EA2-4C41-B9CA-99658CF1A632"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getTeams(compltion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3701FB69-9EA2-4C41-B9CA-99658CF1A632 - c2ddd39e4cb3fd47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FourCoaches.SportTeamsManagerDaoDefault.getTeams(compltion: (Swift.Result&lt;Swift.Array&lt;FourCoaches.TeamItem&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FourCoaches"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamedmohamed/Desktop/my%20work/IOS%20Projects/swift/swift%20language%20Labs/project/FourCoaches/FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "3701FB69-9EA2-4C41-B9CA-99658CF1A632 - 4ce7c225e80d153"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.NSManagedObjectContext) -&gt; () in FourCoaches.SportTeamsManagerDaoDefault.getTeams(compltion: (Swift.Result&lt;Swift.Array&lt;FourCoaches.TeamItem&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FourCoaches"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamedmohamed/Desktop/my%20work/IOS%20Projects/swift/swift%20language%20Labs/project/FourCoaches/FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8D985C8-822D-4F9E-9039-2071D1616EEC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getTeams(compltion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D8D985C8-822D-4F9E-9039-2071D1616EEC - c2ddd39e4cb3fda6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FourCoaches.SportTeamsManagerDaoDefault.getTeams(compltion: (Swift.Result&lt;Swift.Array&lt;FourCoaches.TeamItem&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FourCoaches"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamedmohamed/Desktop/my%20work/IOS%20Projects/swift/swift%20language%20Labs/project/FourCoaches/FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "D8D985C8-822D-4F9E-9039-2071D1616EEC - 4ce7c225e80d153"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.NSManagedObjectContext) -&gt; () in FourCoaches.SportTeamsManagerDaoDefault.getTeams(compltion: (Swift.Result&lt;Swift.Array&lt;FourCoaches.TeamItem&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FourCoaches"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamedmohamed/Desktop/my%20work/IOS%20Projects/swift/swift%20language%20Labs/project/FourCoaches/FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E9AD14F-A2F5-4066-8067-04C7F81765DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "addTeam(team:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EB7BF02-F72A-4792-9378-6F311EAC145C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "addTeam(team:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8EB7BF02-F72A-4792-9378-6F311EAC145C - 1215682c896a28ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FourCoaches.SportTeamsManagerDaoDefault.addTeam(team: FourCoaches.TeamItem) -&gt; ()"
+                  moduleName = "FourCoaches"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamedmohamed/Desktop/my%20work/IOS%20Projects/swift/swift%20language%20Labs/project/FourCoaches/FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "8EB7BF02-F72A-4792-9378-6F311EAC145C - 5bc9236645fa2911"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.NSManagedObjectContext) -&gt; () in FourCoaches.SportTeamsManagerDaoDefault.addTeam(team: FourCoaches.TeamItem) -&gt; ()"
+                  moduleName = "FourCoaches"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamedmohamed/Desktop/my%20work/IOS%20Projects/swift/swift%20language%20Labs/project/FourCoaches/FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6493CDD5-C833-4C46-A664-C5626827010B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "addTeam(team:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FCA7962-83CE-4E45-B29C-A6DB8787C0EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "addTeam(team:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "469B4BF6-B9DB-4234-9B9C-647CD41D065C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "addTeam(team:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3DDFFDE-93AF-4D2C-B605-F3C6F163A196"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "addTeam(team:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A3DDFFDE-93AF-4D2C-B605-F3C6F163A196 - 5bc9236645fa36ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.NSManagedObjectContext) -&gt; () in FourCoaches.SportTeamsManagerDaoDefault.addTeam(team: FourCoaches.TeamItem) -&gt; ()"
+                  moduleName = "FourCoaches"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamedmohamed/Desktop/my%20work/IOS%20Projects/swift/swift%20language%20Labs/project/FourCoaches/FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "816">
+               </Location>
+               <Location
+                  uuid = "A3DDFFDE-93AF-4D2C-B605-F3C6F163A196 - 10dcd0f3a047a4bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (FourCoaches.Player) -&gt; () in closure #1 (__C.NSManagedObjectContext) -&gt; () in FourCoaches.SportTeamsManagerDaoDefault.addTeam(team: FourCoaches.TeamItem) -&gt; ()"
+                  moduleName = "FourCoaches"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamedmohamed/Desktop/my%20work/IOS%20Projects/swift/swift%20language%20Labs/project/FourCoaches/FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE0E709C-6FD4-47D1-A957-A4BF863809AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "addTeam(team:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E24C1A8-7584-4F82-AC2D-98AE1E239216"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "addTeam(team:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5973F0F9-C8DE-43E8-9BA4-5E4A3C32AC9C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "addTeam(team:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34E28F5F-7821-4A68-9009-099C3B8BE921"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "addTeam(team:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42E2C396-8D72-4339-BCC7-EB8D4171C649"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "addTeam(team:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96F4C24D-C526-4AB7-945F-7DF57C655CC1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "addTeam(team:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2CBBA8F-3F59-4585-9D4E-BB0D5C0F2B29"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getTeams(compltion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF516E04-45EC-4595-964A-2931486FC33E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Presentation/Favourite/FavouritePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getStoredTeams()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94C929C4-1D12-4AFD-AE2C-BF9A2BF4940E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Presentation/Favourite/FavouritePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getStoredTeams()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26C6A39C-32FF-431C-9DEC-900E5DEF90B4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Presentation/Favourite/FavouritePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getStoredTeams()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F16196BD-E030-4609-BEB1-924E6BBC1FC6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Presentation/Favourite/FavouritePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getStoredTeams()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "534082FA-8170-46E6-9ACC-F334450BC130"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Presentation/Favourite/FavouritePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getStoredTeams()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CEFE4DAD-2400-4F1A-9BFB-0CF6406CDFAC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Presentation/Favourite/View/FavouriteViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "onFavouriteTeamLoaded(storedTeams:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B47BF932-500A-47D7-B9E8-339D2BDB0B99"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Presentation/Favourite/View/FavouriteViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "onFavouriteTeamLoaded(storedTeams:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "251C860E-AFFF-451E-8D54-5031DDD520CC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Presentation/Favourite/View/FavouriteViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "onFavouriteTeamDeleted()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E10B007C-6B4C-4122-8FD3-0183B33F2A5B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Presentation/Favourite/View/FavouriteViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "onFavouriteTeamDeleted()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D627D931-714E-469B-AB66-D4158350D58A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Presentation/Favourite/View/FavouriteViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "onFavouriteTeamDeleted()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC9755FA-DE4E-4A87-B579-FAADD1390494"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "addTeam(team:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05C7E574-A303-4AD3-A4C3-339A9B998070"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getTeams(compltion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "643682AD-F08B-43B3-AD71-B91ABFD6DADB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Data/PersistentStorage/CoreData/SportTeamsManagerDao.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getTeams(compltion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DEF7F2E-F592-4A0D-B6D7-59F1B462B0A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Presentation/LeaguesDetails/View/LeagueDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66682C6C-1EC1-4D8F-A437-908D8784A717"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Presentation/LeaguesDetails/View/LeagueDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48B26208-526B-4274-94AD-7C523332C673"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourCoaches/Presentation/Home/View/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "HomeViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "48B26208-526B-4274-94AD-7C523332C673 - 7f4a779bfd2e2cc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FourCoaches.HomeViewController.sportType.getter : Swift.Optional&lt;FourCoaches.SportType&gt;"
+                  moduleName = "FourCoaches"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamedmohamed/Desktop/my%20work/IOS%20Projects/swift/swift%20language%20Labs/project/FourCoaches/FourCoaches/Presentation/Home/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "48B26208-526B-4274-94AD-7C523332C673 - 26833b28918408d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FourCoaches.HomeViewController.sportType.setter : Swift.Optional&lt;FourCoaches.SportType&gt;"
+                  moduleName = "FourCoaches"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamedmohamed/Desktop/my%20work/IOS%20Projects/swift/swift%20language%20Labs/project/FourCoaches/FourCoaches/Presentation/Home/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "48B26208-526B-4274-94AD-7C523332C673 - 9f88c7c14b6e95c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FourCoaches.HomeViewController.sportType.modify : Swift.Optional&lt;FourCoaches.SportType&gt;"
+                  moduleName = "FourCoaches"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamedmohamed/Desktop/my%20work/IOS%20Projects/swift/swift%20language%20Labs/project/FourCoaches/FourCoaches/Presentation/Home/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "48B26208-526B-4274-94AD-7C523332C673 - 4dbe17e26ec06941"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FourCoaches.HomeViewController.sportType.modify : Swift.Optional&lt;FourCoaches.SportType&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "FourCoaches"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamedmohamed/Desktop/my%20work/IOS%20Projects/swift/swift%20language%20Labs/project/FourCoaches/FourCoaches/Presentation/Home/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "48B26208-526B-4274-94AD-7C523332C673 - aac0295e9a3fac23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FourCoaches.HomeViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; FourCoaches.HomeViewController"
+                  moduleName = "FourCoaches"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamedmohamed/Desktop/my%20work/IOS%20Projects/swift/swift%20language%20Labs/project/FourCoaches/FourCoaches/Presentation/Home/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "48B26208-526B-4274-94AD-7C523332C673 - 3c363014ba9a2f38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FourCoaches.HomeViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FourCoaches.HomeViewController&gt;"
+                  moduleName = "FourCoaches"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamedmohamed/Desktop/my%20work/IOS%20Projects/swift/swift%20language%20Labs/project/FourCoaches/FourCoaches/Presentation/Home/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
